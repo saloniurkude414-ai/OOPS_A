@@ -40,3 +40,4 @@ public class FilterDemo {
         data.apply_filter("Remove Outliers");
         data.reset_filter();
     }
+}
